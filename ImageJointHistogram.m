@@ -1,7 +1,6 @@
-
 function [jointHistogram, normJointHistogram] = ImageJointHistogram(image1, image2, numBins)
 
-% SYNOPOSIS:
+% SYNOPSIS:
 % Given two images (2D or 3D) of the same size with values from 0 to 255 and the number of bins,
 % this function returns both the joint histogram and normalised joint histogram of the images.
 %
