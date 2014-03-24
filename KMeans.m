@@ -1,5 +1,4 @@
-
-function m = kmeans(data, k)
+function m = KMeans(data, k)
 
 % SYNOPSIS:
 % K-means clustering aims to partition n observations into k clusters 
