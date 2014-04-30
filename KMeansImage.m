@@ -2,6 +2,7 @@ function [centres, flag] = KMeansImage(filename, k, feature_length, normalise, M
 
 % SYNOPSIS:
 % This function runs K-Means Clustering on RGB images.
+%
 % INPUTS:
 % filename       - name of input image
 % k              - number of clusters (4,8,16,32)
