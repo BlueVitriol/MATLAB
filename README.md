@@ -6,6 +6,7 @@ MATLAB code from engineering projects.
 ### Contents
 * [ImageJointHistogram.m] (../master/README.md#imagejointhistogramm)
 * [KMeans.m] (../master/README.md#kmeansm)
+* [PCA.m] (../master/README.md#pcam)
 
 ### Screenshot Examples
 
@@ -21,3 +22,6 @@ MATLAB code from engineering projects.
 
 ![convergeddataek10](https://cloud.githubusercontent.com/assets/7009089/2837613/860b4466-d01d-11e3-85f2-b37b10a768f3.jpg "Converged K=10 Clusters")
 
+#### [PCA.m] (./PCA.m)
+
+![prac3question3_diabetes](https://cloud.githubusercontent.com/assets/7009089/2837702/c5dbb424-d020-11e3-9d91-55481f7969a9.jpg "PCA Reduction of Data to Demension of 2")
